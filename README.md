@@ -3,6 +3,8 @@
 Inquisitor is a powerful and user-friendly port scanner written in Python. It can scan a single IP address or a range of IP addresses, and it can also scan a range of ports or a specific list of ports.
 
 Inquisitor Screenshot
+![image](https://user-images.githubusercontent.com/114393219/236293500-1a72a289-1cb6-4725-aafe-78748d52b627.png)
+
 
 ## Installation
 
