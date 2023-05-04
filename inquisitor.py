@@ -16,7 +16,7 @@ BANNER = """
                         | $$                                                          
                         | $$                                                          
                         |__/                                                          
-                                                                - By Mr.KrYP70n :)
+                                                                - v1.0 By Mr.KrYP70n :)
 
 """
 
