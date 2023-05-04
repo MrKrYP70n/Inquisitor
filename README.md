@@ -35,3 +35,6 @@ python3 inquisitor.py 192.168.0.1 -p 22,80,443
 
 This command will scan the IP address 192.168.0.1 on ports 22, 80, and 443.
 
+## About Me 
+
+Hey there ! If you like this , don't forget to leave a star '⭐' . Going to add more features like IP range scanning , Port knocking , etc. :)
