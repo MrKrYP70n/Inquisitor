@@ -1,4 +1,4 @@
-socket
-sys
-threading
 argparse
+python-nmap
+concurrent.futures
+colorama
