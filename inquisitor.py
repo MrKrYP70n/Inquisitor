@@ -75,6 +75,7 @@ def os_scan(target):
             print(f"{Fore.GREEN}OS:{Style.RESET_ALL}  {Fore.YELLOW}{osmatch['name']} {Style.RESET_ALL} {Fore.RED}({osmatch['accuracy']}% accuracy){Style.RESET_ALL} ")
 
 def main():
+    print(BANNER)
     parser = argparse.ArgumentParser(description=f"{Fore.CYAN}A simple port scanner.\n")
     parser.add_argument("target", help="The IP address or hostname to scan.")
     parser.add_argument("-t", "--tcp", action="store_true", help="Scan TCP ports (default).")
