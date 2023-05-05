@@ -1,4 +1,3 @@
-argparse
-python-nmap
-concurrent.futures
 colorama
+python-nmap
+argparse
